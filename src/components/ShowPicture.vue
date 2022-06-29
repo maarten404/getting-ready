@@ -9,12 +9,12 @@ export default {
       pictureVisible: true,
       readyMessageVisible: false,
       images: [
-        '/onderbroek.png',
-        '/hemd.png',
-        '/trui.png',
-        '/sokken.png',
-        '/broek.png',
-        '/schoenen.png'
+        '/getting-ready/onderbroek.png',
+        '/getting-ready/hemd.png',
+        '/getting-ready/trui.png',
+        '/getting-ready/sokken.png',
+        '/getting-ready/broek.png',
+        '/getting-ready/schoenen.png'
       ],
       counter: 0,
       elapsedTime: 0,
